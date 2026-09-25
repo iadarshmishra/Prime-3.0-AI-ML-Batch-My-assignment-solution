@@ -1,2 +1,3 @@
 # Prime-3.0-AI-ML-Batch-My-assignment-solution
-Prime 3.0 : AI/ML Batch Assignments Solutions
+
+Solutions and implementations for assignments problems from the Prime 3.0 AI-ML-batch.
